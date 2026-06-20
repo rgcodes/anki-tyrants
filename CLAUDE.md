@@ -23,7 +23,7 @@ Filename convention: `data/decks-json/<deck>.json` where `<deck>` comes from the
 
 ```json
 {
-  "image": "drow-0-advocate.png",
+  "image": "tyrants-drow-0-advocate.png",
   "name": "Advocate",
   "type": "Ambition",
   "cost": 2,
@@ -44,7 +44,7 @@ Field mapping (per `card-anatomy.png`):
 
 | Field | Card location |
 |---|---|
-| `image` | `<deck>-<index>-<slug>.png` — `deck` is the half-deck id (matches the JSON filename stem, e.g. `drow`), `index` is the card's 0-based position in the deck's JSON array, `slug` is the lowercased-kebab name. The deck prefix is mandatory: Anki stores all media in one flat `collection.media/` folder per profile, so any cross-half-deck filename collision would silently overwrite. User produces the actual image files later. |
+| `image` | `tyrants-<deck>-<index>-<slug>.png` — `deck` is the half-deck id (matches the JSON filename stem, e.g. `drow`), `index` is the card's 0-based position in the deck's JSON array, `slug` is the lowercased-kebab name. The `tyrants-` project prefix and the `<deck>-` half-deck prefix are both mandatory: Anki stores all media in one flat `collection.media/` folder shared across every deck in the user's profile, so filenames are global keys. The `tyrants-` prefix guards against collisions with media from unrelated decks the user may have imported. User produces the actual image files later. |
 | `name` | Top-left title |
 | `type` | Band below the name (e.g. Ambition, Guile, Conquest) |
 | `cost` | Top-right number |

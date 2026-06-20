@@ -1,0 +1,10 @@
+{
+  "name": "anki-tyrants",
+  "version": "1.0.0",
+  "description": "Generate Anki flashcards for memorising Tyrants of the Underdark cards.",
+  "type": "module",
+  "scripts": {
+    "generate": "node src/generate.js"
+  },
+  "license": "ISC"
+}

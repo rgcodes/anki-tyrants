@@ -1,6 +1,6 @@
 [
   {
-    "image": "drow-0-advocate.png",
+    "image": "tyrants-drow-0-advocate.png",
     "name": "Advocate",
     "type": "Ambition",
     "cost": 2,
@@ -16,7 +16,7 @@
     "quantity_in_deck": 4
   },
   {
-    "image": "drow-1-spy-master.png",
+    "image": "tyrants-drow-1-spy-master.png",
     "name": "Spy Master",
     "type": "Guile",
     "cost": 2,
@@ -30,7 +30,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "drow-2-infiltrator.png",
+    "image": "tyrants-drow-2-infiltrator.png",
     "name": "Infiltrator",
     "type": "Guile",
     "cost": 3,
@@ -44,7 +44,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "drow-3-advance-scout.png",
+    "image": "tyrants-drow-3-advance-scout.png",
     "name": "Advance Scout",
     "type": "Conquest",
     "cost": 3,
@@ -58,7 +58,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "drow-4-spellspinner.png",
+    "image": "tyrants-drow-4-spellspinner.png",
     "name": "Spellspinner",
     "type": "Guile",
     "cost": 3,
@@ -74,7 +74,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "drow-5-blackguard.png",
+    "image": "tyrants-drow-5-blackguard.png",
     "name": "Blackguard",
     "type": "Malice",
     "cost": 3,
@@ -90,7 +90,7 @@
     "quantity_in_deck": 4
   },
   {
-    "image": "drow-6-inquisitor.png",
+    "image": "tyrants-drow-6-inquisitor.png",
     "name": "Inquisitor",
     "type": "Malice",
     "cost": 3,
@@ -106,7 +106,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "drow-7-drow-negotiator.png",
+    "image": "tyrants-drow-7-drow-negotiator.png",
     "name": "Drow Negotiator",
     "type": "Ambition",
     "cost": 3,
@@ -121,7 +121,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "drow-8-mercenary-squad.png",
+    "image": "tyrants-drow-8-mercenary-squad.png",
     "name": "Mercenary Squad",
     "type": "Conquest",
     "cost": 3,
@@ -135,7 +135,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "drow-9-underdark-ranger.png",
+    "image": "tyrants-drow-9-underdark-ranger.png",
     "name": "Underdark Ranger",
     "type": "Conquest",
     "cost": 4,
@@ -149,7 +149,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "drow-10-bounty-hunter.png",
+    "image": "tyrants-drow-10-bounty-hunter.png",
     "name": "Bounty Hunter",
     "type": "Malice",
     "cost": 4,
@@ -163,7 +163,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "drow-11-chosen-of-lolth.png",
+    "image": "tyrants-drow-11-chosen-of-lolth.png",
     "name": "Chosen of Lolth",
     "type": "Ambition",
     "cost": 4,
@@ -178,7 +178,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "drow-12-doppelganger.png",
+    "image": "tyrants-drow-12-doppelganger.png",
     "name": "Doppelganger",
     "type": "Malice",
     "cost": 5,
@@ -192,7 +192,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "drow-13-master-of-melee-magthere.png",
+    "image": "tyrants-drow-13-master-of-melee-magthere.png",
     "name": "Master of Melee-Magthere",
     "type": "Conquest",
     "cost": 5,
@@ -208,7 +208,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "drow-14-information-broker.png",
+    "image": "tyrants-drow-14-information-broker.png",
     "name": "Information Broker",
     "type": "Guile",
     "cost": 5,
@@ -224,7 +224,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "drow-15-masters-of-sorcere.png",
+    "image": "tyrants-drow-15-masters-of-sorcere.png",
     "name": "Masters of Sorcere",
     "type": "Guile",
     "cost": 5,
@@ -240,7 +240,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "drow-16-weaponmaster.png",
+    "image": "tyrants-drow-16-weaponmaster.png",
     "name": "Weaponmaster",
     "type": "Conquest",
     "cost": 6,
@@ -256,7 +256,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "drow-17-deathblade.png",
+    "image": "tyrants-drow-17-deathblade.png",
     "name": "Deathblade",
     "type": "Malice",
     "cost": 6,
@@ -270,7 +270,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "drow-18-council-member.png",
+    "image": "tyrants-drow-18-council-member.png",
     "name": "Council Member",
     "type": "Ambition",
     "cost": 6,
@@ -285,7 +285,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "drow-19-matron-mother.png",
+    "image": "tyrants-drow-19-matron-mother.png",
     "name": "Matron Mother",
     "type": "Ambition",
     "cost": 6,
