@@ -1,0 +1,302 @@
+[
+  {
+    "image": "0-grimlock.png",
+    "name": "Grimlock",
+    "type": "Conquest",
+    "cost": 1,
+    "race": "Grimlock",
+    "effect": [
+      "Deploy a troop.",
+      "If an opponent causes you to discard this, draw 2 cards."
+    ],
+    "flavour": "Destined to be born, live their lives, and then die in service to higher beings.",
+    "deck_value": 0,
+    "inner_circle_value": 1,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "1-cloaker.png",
+    "name": "Cloaker",
+    "type": "Guile",
+    "cost": 2,
+    "race": "Aberration",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ Assassinate a troop at that spy's site."
+    ],
+    "flavour": "\"If you see a leather cape on the ground, stab it. Trust me.\" - Brawlwin Chainminer",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "2-cranium-rats.png",
+    "name": "Cranium Rats",
+    "type": "Conquest",
+    "cost": 2,
+    "race": "Beast",
+    "effect": [
+      "Deploy 2 troops.",
+      "Choose one opponent with more than 3 cards to discard a card."
+    ],
+    "flavour": "A seed of malevolent intellect lurking in each rat, waiting for them to gather together.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "3-chuul.png",
+    "name": "Chuul",
+    "type": "Guile",
+    "cost": 3,
+    "race": "Aberration",
+    "effect": [
+      "Place a spy. Each opponent who has a troop at that spy's site and more than 3 cards, must discard a card."
+    ],
+    "flavour": "They follow the ingrained directives of their creators, as they have done since the dawn of time.",
+    "deck_value": 1,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "4-mindwitness.png",
+    "name": "Mindwitness",
+    "type": "Malice",
+    "cost": 3,
+    "race": "Aberration",
+    "effect": [
+      "Assassinate a troop. If that troop belonged to another player and they have more than 3 cards, they must discard a card."
+    ],
+    "flavour": "\"A beholder enslaved by mind flayers. Can you imagine the horrors that could be unleashed?\" – Elminster Aumar",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "5-ambassador.png",
+    "name": "Ambassador",
+    "type": "Ambition",
+    "cost": 3,
+    "race": "Illithid",
+    "effect": [
+      "At end of turn, promote another card played this turn.",
+      "If an opponent causes you to discard this, you may promote it instead."
+    ],
+    "flavour": "It is important to forge new alliances, no matter how tenuous.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 4
+  },
+  {
+    "image": "6-nothic.png",
+    "name": "Nothic",
+    "type": "Guile",
+    "cost": 3,
+    "race": "Aberration",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ Draw a card. Each opponent with more than 3 cards must discard a card."
+    ],
+    "flavour": "\"You know something good. Something secret. I can see it, yes, yessss...\"",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "7-gauth.png",
+    "name": "Gauth",
+    "type": "Malice",
+    "cost": 3,
+    "race": "Aberration",
+    "effect": [
+      "Choose one:",
+      "• +2 influence",
+      "• Draw a card. Choose one opponent with more than 3 cards to discard a card."
+    ],
+    "flavour": "If you value something, don't let a gauth see it.",
+    "deck_value": 2,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "8-spectator.png",
+    "name": "Spectator",
+    "type": "Malice",
+    "cost": 4,
+    "race": "Aberration",
+    "effect": [
+      "+2 power, +1 influence"
+    ],
+    "flavour": "\"If you were ripped from your home plane and forced to guard something for 101 years, you'd go a little mad too.\" – Volothamp Geddarm",
+    "deck_value": 2,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "9-brainwashed-slave.png",
+    "name": "Brainwashed Slave",
+    "type": "Guile",
+    "cost": 4,
+    "race": "Aberration",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ +2 power, +2 influence"
+    ],
+    "flavour": "It's mind belongs to something else. Something terrifying.",
+    "deck_value": 2,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "10-umber-hulk.png",
+    "name": "Umber Hulk",
+    "type": "Conquest",
+    "cost": 4,
+    "race": "Monstrosity",
+    "effect": [
+      "Deploy 3 troops.",
+      "If an opponent causes you to discard this, they must discard a card."
+    ],
+    "flavour": "Those lucky enough to survive an umber hulk attack often remember precious little of the incident, thanks to the umber hulk's mind-scrambling gaze.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "11-intellect-devourer.png",
+    "name": "Intellect Devourer",
+    "type": "Ambition",
+    "cost": 4,
+    "race": "Aberration",
+    "effect": [
+      "Choose one:",
+      "• +3 influence",
+      "• Return up to two troops or spies."
+    ],
+    "flavour": "Why fight your enemies, when you can so easily change their mind?",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "12-quaggoth.png",
+    "name": "Quaggoth",
+    "type": "Conquest",
+    "cost": 5,
+    "race": "Quaggoth",
+    "effect": [
+      "Assassinate one white troop for each site you control."
+    ],
+    "flavour": "They maul their foes in a frenzy, becoming even more murderous in the face of death.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "13-puppeteer.png",
+    "name": "Puppeteer",
+    "type": "Ambition",
+    "cost": 5,
+    "race": "Illithid",
+    "effect": [
+      "+2 influence",
+      "At end of turn, promote another card played this turn."
+    ],
+    "flavour": "Sometimes you don't want to see who's pulling the strings.",
+    "deck_value": 2,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "14-beholder.png",
+    "name": "Beholder",
+    "type": "Malice",
+    "cost": 5,
+    "race": "Aberration",
+    "effect": [
+      "Assassinate a troop.",
+      "Gain 1 power for every 3 troops in your trophy hall."
+    ],
+    "flavour": "\"Negotiating with a beholder is a task so dangerous, it is second only to spying on a Matron Mother.\" – Jarlaxle Baenre",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "15-ulitharid.png",
+    "name": "Ulitharid",
+    "type": "Ambition",
+    "cost": 6,
+    "race": "Illithid",
+    "effect": [
+      "Play a card in the market that costs 4 or less as if it was in your hand, then devour that card."
+    ],
+    "flavour": "A rare illithid whose power and ambition rivals an elder brain.",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "16-elder-brain.png",
+    "name": "Elder Brain",
+    "type": "Ambition",
+    "cost": 7,
+    "race": "Aberration",
+    "effect": [
+      "Promote the top card of your deck.",
+      "Play a card from your inner-circle as if it were in your hand, then return it to your inner-circle."
+    ],
+    "flavour": "It eagerly feasts on the brains of its illithid supplicants who desire to achieve \"oneness\" with their master.",
+    "deck_value": 4,
+    "inner_circle_value": 9,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "17-neogi.png",
+    "name": "Neogi",
+    "type": "Conquest",
+    "cost": 7,
+    "race": "Aberration",
+    "effect": [
+      "Deploy 4 troops.",
+      "At end of turn, each opponent must discard a card."
+    ],
+    "flavour": "Mind-controlling creatures from another plane that seek to enslave everything, even their own kind.",
+    "deck_value": 4,
+    "inner_circle_value": 8,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "18-aboleth.png",
+    "name": "Aboleth",
+    "type": "Guile",
+    "cost": 7,
+    "race": "Aberration",
+    "effect": [
+      "Choose one",
+      "• Place 2 spies.",
+      "• Draw a card for each spy you have on the board."
+    ],
+    "flavour": "Ancient and unknowable, these creatures will only accept complete submission.",
+    "deck_value": 4,
+    "inner_circle_value": 7,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "19-death-tyrant.png",
+    "name": "Death Tyrant",
+    "type": "Malice",
+    "cost": 7,
+    "race": "Aberration",
+    "effect": [
+      "Assassinate up to 3 troops at a single site. For each troop removed gain 1 influence."
+    ],
+    "flavour": "Nothing is worse than a beholder having nightmares about its mortality.",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "image": "0-gibbering-mouther.png",
+    "name": "Gibbering Mouther",
+    "type": "Conquest",
+    "cost": 2,
+    "race": "Aberration",
+    "effect": [
+      "Deploy 2 troops, then choose an opponent with a troop adjacent to at least 1 of them. He or she recruits an Insane Outcast."
+    ],
+    "flavour": "“If you're trying to make sense of what they're saying, you're already mad.” —Lippo, derro sage",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "1-night-hag.png",
+    "name": "Night Hag",
+    "type": "Guile",
+    "cost": 3,
+    "race": "Fiend",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ Draw 2 cards."
+    ],
+    "flavour": "Singing a merry song, she sows the seeds of madness.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "2-mind-flayer.png",
+    "name": "Mind Flayer",
+    "type": "Malice",
+    "cost": 3,
+    "race": "Illithid",
+    "effect": [
+      "Devour a card in your hand ▶ Choose one:",
+      "• +3 influence",
+      "• Assassinate a troop."
+    ],
+    "flavour": "“You know what goes on in their minds? Filthy, stinking evil. That's what.” —Hitch, rogue extraordinaire",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "3-myconid-adult.png",
+    "name": "Myconid Adult",
+    "type": "Ambition",
+    "cost": 3,
+    "race": "Myconid",
+    "effect": [
+      "+2 influence",
+      "Choose an opponent. He or she recruits an Insane Outcast."
+    ],
+    "flavour": "“Rejoice in the true union that will meld us all!”",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "4-hezrou.png",
+    "name": "Hezrou",
+    "type": "Ambition",
+    "cost": 3,
+    "race": "Fiend",
+    "effect": [
+      "Move an enemy troop.",
+      "Promote the top card of your deck."
+    ],
+    "flavour": "Their stench is legendary.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "5-derro.png",
+    "name": "Derro",
+    "type": "Conquest",
+    "cost": 3,
+    "race": "Derro",
+    "effect": [
+      "Supplant a white troop anywhere on the board. You recruit an Insane Outcast."
+    ],
+    "flavour": "“I've got a shiny, sharpie, steely stick ready to poke a hole in your nice, nibbly noggin.”",
+    "deck_value": 1,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "6-myconid-sovereign.png",
+    "name": "Myconid Sovereign",
+    "type": "Ambition",
+    "cost": 4,
+    "race": "Myconid",
+    "effect": [
+      "Choose an opponent. He or she recruits an Insane Outcast.",
+      "At end of turn, promote another card played this turn."
+    ],
+    "flavour": "“The day of joy is nigh!”",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "7-ghoul.png",
+    "name": "Ghoul",
+    "type": "Malice",
+    "cost": 4,
+    "race": "Undead",
+    "effect": [
+      "+2 power",
+      "Each opponent recruits an Insane Outcast."
+    ],
+    "flavour": "A favored minion of the Prince of Undeath.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "8-ettin.png",
+    "name": "Ettin",
+    "type": "Conquest",
+    "cost": 4,
+    "race": "Giant",
+    "effect": [
+      "Choose one:",
+      "• Deploy 3 troops.",
+      "• Assassinate 2 white troops."
+    ],
+    "flavour": "Mug was partial to elf meat. Tug liked dwarf, when he could get it, but elf, not so much.",
+    "deck_value": 1,
+    "inner_circle_value": 2,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "9-jackalwere.png",
+    "name": "Jackalwere",
+    "type": "Guile",
+    "cost": 4,
+    "race": "Shapechanger",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ +2 power +2 influence"
+    ],
+    "flavour": "They capture victims for their lamia masters, who mercilessly condemn those victims to slavery or death.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "10-glabrezu.png",
+    "name": "Glabrezu",
+    "type": "Malice",
+    "cost": 5,
+    "race": "Fiend",
+    "effect": [
+      "Devour a card in your hand ▶ Assassinate 2 troops."
+    ],
+    "flavour": "Only when they behold a glabrezu's true form do mortals realize the folly of succumbing to its whispers of power.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "11-succubus.png",
+    "name": "Succubus",
+    "type": "Guile",
+    "cost": 5,
+    "race": "Fiend",
+    "effect": [
+      "Devour a card in your hand ▶ Place a spy, then assassinate a troop at that spy's site."
+    ],
+    "flavour": "Seducers and corruptors, they have found easy prey in the world of mortals.",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "12-nalfeshnee.png",
+    "name": "Nalfeshnee",
+    "type": "Ambition",
+    "cost": 5,
+    "race": "Fiend",
+    "effect": [
+      "+3 influence",
+      "Promote the top card of your deck."
+    ],
+    "flavour": "“There is always room at our table for ambitious souls.”",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "13-vrock.png",
+    "name": "Vrock",
+    "type": "Guile",
+    "cost": 5,
+    "race": "Fiend",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ +5 power"
+    ],
+    "flavour": "Vrocks are difficult to bribe, seeing no reason to bargain when they can simply take what they want.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "14-grazzt.png",
+    "name": "Graz'zt",
+    "type": "Guile",
+    "cost": 6,
+    "race": "Fiend",
+    "effect": [
+      "Choose one:",
+      "• Place 2 spies.",
+      "• Return any number of your spies ▶ Supplant a troop at each of the returned spies' sites."
+    ],
+    "flavour": "His beauty hides a heart of blackest evil.",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "15-zuggtmoy.png",
+    "name": "Zuggtmoy",
+    "type": "Ambition",
+    "cost": 6,
+    "race": "Fiend",
+    "effect": [
+      "Devour a card in your inner circle ▶ +3 influence and at end of turn, promote up to 2 other cards played this turn."
+    ],
+    "flavour": "“I have come for my betrothed.” —Zuggtmoy to Araumycos",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "16-balor.png",
+    "name": "Balor",
+    "type": "Conquest",
+    "cost": 6,
+    "race": "Fiend",
+    "effect": [
+      "Devour a card in your hand ▶ Supplant a white troop anywhere on the board. Then deploy a troop."
+    ],
+    "flavour": "The thunder of its whip is enough to drain the resolve of the most hardened warriors.",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "17-marilith.png",
+    "name": "Marilith",
+    "type": "Malice",
+    "cost": 6,
+    "race": "Fiend",
+    "effect": [
+      "Devour a card in your hand ▶ +5 power"
+    ],
+    "flavour": "They sing an Abyssal hymn as they lead the demonic hordes to battle.",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "18-demogorgon.png",
+    "name": "Demogorgon",
+    "type": "Conquest",
+    "cost": 8,
+    "race": "Fiend",
+    "effect": [
+      "Devour a card in your hand ▶ Supplant 2 white troops. Each opponent recruits 2 Insane Outcasts."
+    ],
+    "flavour": "Madness and rage fueled by mindless evil.",
+    "deck_value": 5,
+    "inner_circle_value": 10,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "19-orcus.png",
+    "name": "Orcus",
+    "type": "Malice",
+    "cost": 8,
+    "race": "Fiend",
+    "effect": [
+      "Devour a card in your hand ▶ Assassinate 2 troops. Then you may take up to 2 troops from any trophy halls and deploy them anywhere on the board."
+    ],
+    "flavour": "Death is only the beginning of his depravity.",
+    "deck_value": 5,
+    "inner_circle_value": 10,
+    "quantity_in_deck": 1
+  }
+]

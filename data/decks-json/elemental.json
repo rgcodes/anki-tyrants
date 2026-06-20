@@ -1,0 +1,312 @@
+[
+  {
+    "image": "0-water-elemental.png",
+    "name": "Water Elemental",
+    "type": "Conquest",
+    "cost": 2,
+    "race": "Elemental",
+    "effect": [
+      "Deploy 2 troops.",
+      "Conquest Focus ▶ Draw a card."
+    ],
+    "flavour": "Living water, ready to drown and crush its foes.",
+    "deck_value": 1,
+    "inner_circle_value": 2,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "1-black-earth-cultist.png",
+    "name": "Black Earth Cultist",
+    "type": "Ambition",
+    "cost": 2,
+    "race": "Human",
+    "effect": [
+      "At end of turn, promote another card played this turn.",
+      "Ambition Focus ▶ +2 influence"
+    ],
+    "flavour": "Devotion to Ogrémoch gives them an uncanny ability to hold their ground.",
+    "deck_value": 1,
+    "inner_circle_value": 2,
+    "quantity_in_deck": 4
+  },
+  {
+    "image": "2-crushing-wave-cultist.png",
+    "name": "Crushing Wave Cultist",
+    "type": "Conquest",
+    "cost": 3,
+    "race": "Human",
+    "effect": [
+      "Assassinate a white troop.",
+      "Conquest Focus ▶ Deploy 2 troops."
+    ],
+    "flavour": "Cultists sworn to the service of Olhydra, Princess of Elemental Water.",
+    "deck_value": 1,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "3-howling-hatred-cultist.png",
+    "name": "Howling Hatred Cultist",
+    "type": "Guile",
+    "cost": 3,
+    "race": "Human",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ +3 influence",
+      "Guile Focus ▶ +1 power"
+    ],
+    "flavour": "Howling Hatred cultists sustain themselves on nothing more than air and fanatical devotion.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "4-fire-elemental.png",
+    "name": "Fire Elemental",
+    "type": "Malice",
+    "cost": 3,
+    "race": "Elemental",
+    "effect": [
+      "Choose one:",
+      "• +2 power",
+      "• +2 influence",
+      "Malice Focus ▶ Draw a card."
+    ],
+    "flavour": "A force of capricious devastation.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "5-air-elemental.png",
+    "name": "Air Elemental",
+    "type": "Guile",
+    "cost": 3,
+    "race": "Elemental",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ Deploy 3 troops.",
+      "Guile Focus ▶ Draw a card."
+    ],
+    "flavour": "Living tempests, the embodiment of chaos.",
+    "deck_value": 1,
+    "inner_circle_value": 2,
+    "quantity_in_deck": 4
+  },
+  {
+    "image": "6-earth-elemental.png",
+    "name": "Earth Elemental",
+    "type": "Ambition",
+    "cost": 3,
+    "race": "Elemental",
+    "effect": [
+      "+1 influence",
+      "Return another player's troop or spy.",
+      "Ambition Focus ▶ Draw a card."
+    ],
+    "flavour": "Who can stand against the might of the earth?",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "7-fire-elemental-myrmidon.png",
+    "name": "Fire Elemental Myrmidon",
+    "type": "Malice",
+    "cost": 4,
+    "race": "Elemental",
+    "effect": [
+      "+2 power",
+      "At end of turn, promote an Obedience card played this turn."
+    ],
+    "flavour": "\"What if we put the fire INSIDE the armor?\" —Elizar Dryflagon",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "8-water-elemental-myrmidon.png",
+    "name": "Water Elemental Myrmidon",
+    "type": "Conquest",
+    "cost": 4,
+    "race": "Elemental",
+    "effect": [
+      "Assassinate a white troop.",
+      "At end of turn, promote an Obedience card played this turn."
+    ],
+    "flavour": "They exist only to follow the commands of their creator.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "9-earth-elemental-myrmidon.png",
+    "name": "Earth Elemental Myrmidon",
+    "type": "Ambition",
+    "cost": 4,
+    "race": "Elemental",
+    "effect": [
+      "+2 influence",
+      "At end of turn, promote another card played this turn."
+    ],
+    "flavour": "\"How can you claim this land is yours when the very land itself rises to fight you?\" —Marlos Urnrayle",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "10-air-elemental-myrmidon.png",
+    "name": "Air Elemental Myrmidon",
+    "type": "Guile",
+    "cost": 4,
+    "race": "Elemental",
+    "effect": [
+      "Place a spy.",
+      "At end of turn, promote an Obedience card played this turn."
+    ],
+    "flavour": "\"We'll give armor flight just to mock the earth.\" —Aerisi Kalinoth",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "11-eternal-flame-cultist.png",
+    "name": "Eternal Flame Cultist",
+    "type": "Malice",
+    "cost": 4,
+    "race": "Human",
+    "effect": [
+      "Assassinate a troop.",
+      "Malice Focus ▶ +2 power"
+    ],
+    "flavour": "\"His embrace will cull the weak and warm the strong.\" —Vanifer",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "12-aerisi-kalinoth.png",
+    "name": "Aerisi Kalinoth",
+    "type": "Guile",
+    "cost": 5,
+    "race": "Elf",
+    "effect": [
+      "+1 power",
+      "Place a spy.",
+      "Recruit a Guile card that costs 4 or less without paying its cost."
+    ],
+    "flavour": "\"It's hard to remain humble when everyone is beneath you.\"",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "13-gar-shatterkeel.png",
+    "name": "Gar Shatterkeel",
+    "type": "Conquest",
+    "cost": 5,
+    "race": "Human",
+    "effect": [
+      "Deploy 3 troops.",
+      "Recruit a Conquest card that costs 4 or less without paying its cost."
+    ],
+    "flavour": "\"The tide has turned.\"",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "14-marlos-urnrayle.png",
+    "name": "Marlos Urnrayle",
+    "type": "Ambition",
+    "cost": 5,
+    "race": "Medusa",
+    "effect": [
+      "+1 influence",
+      "At end of turn, promote another card played this turn.",
+      "Recruit an Ambition card that costs 4 or less without paying its cost."
+    ],
+    "flavour": "\"I blame the gods. How they envied me!\"",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "15-vanifer.png",
+    "name": "Vanifer",
+    "type": "Malice",
+    "cost": 5,
+    "race": "Tiefling",
+    "effect": [
+      "Assassinate a troop.",
+      "Recruit a Malice card that costs 4 or less without paying its cost."
+    ],
+    "flavour": "\"Time to blow the candle out.\"",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "16-olhydra.png",
+    "name": "Olhydra",
+    "type": "Conquest",
+    "cost": 6,
+    "race": "Elemental Prince",
+    "effect": [
+      "Supplant a white troop anywhere on the board.",
+      "Conquest Focus ▶ Deploy 2 troops."
+    ],
+    "flavour": "She is patient as the tide, retreating from adversity only to rush back in stronger than before.",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "17-ogremoch.png",
+    "name": "Ogrémoch",
+    "type": "Ambition",
+    "cost": 6,
+    "race": "Elemental Prince",
+    "effect": [
+      "+2 influence",
+      "At end of turn, promote another card played this turn.",
+      "Ambition Focus ▶ At end of turn, promote another card played this turn."
+    ],
+    "flavour": "What he can't crush, he endures and outlasts.",
+    "deck_value": 3,
+    "inner_circle_value": 7,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "18-imix.png",
+    "name": "Imix",
+    "type": "Malice",
+    "cost": 6,
+    "race": "Elemental Prince",
+    "effect": [
+      "+4 power",
+      "Malice Focus ▶ +2 power"
+    ],
+    "flavour": "\"Your world was made for me to consume.\"",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "19-yan-c-bin.png",
+    "name": "Yan-C-Bin",
+    "type": "Guile",
+    "cost": 6,
+    "race": "Elemental Prince",
+    "effect": [
+      "Place a spy, then assassinate a troop at that spy's site.",
+      "Guile Focus ▶ Place a spy."
+    ],
+    "flavour": "Subtler than the other elemental princes, Yan-C-Bin operates unseen.",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  }
+]

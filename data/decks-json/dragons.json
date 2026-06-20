@@ -1,0 +1,303 @@
+[
+  {
+    "image": "0-kobold.png",
+    "name": "Kobold",
+    "type": "Conquest",
+    "cost": 1,
+    "race": "Kobold",
+    "effect": [
+      "Choose one:",
+      "• Deploy a troop.",
+      "• Assassinate a white troop."
+    ],
+    "flavour": "While they can live to be more than a century, most perish before they reach a few decades.",
+    "deck_value": 1,
+    "inner_circle_value": 2,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "1-white-wyrmling.png",
+    "name": "White Wyrmling",
+    "type": "Conquest",
+    "cost": 2,
+    "race": "Dragon",
+    "effect": [
+      "Deploy 2 troops.",
+      "You may devour a card in the market."
+    ],
+    "flavour": "White wyrmlings are born with two basic urges: hunger and greed.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "2-watcher-of-thay.png",
+    "name": "Watcher of Thay",
+    "type": "Guile",
+    "cost": 3,
+    "race": "Human",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ +3 influence"
+    ],
+    "flavour": "“What you seek can be bought only with blood.”",
+    "deck_value": 2,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "3-dragon-cultist.png",
+    "name": "Dragon Cultist",
+    "type": "Malice",
+    "cost": 3,
+    "race": "Human",
+    "effect": [
+      "Choose one:",
+      "• +2 power",
+      "• +2 influence"
+    ],
+    "flavour": "Devoted to bringing an age of draconic rule.",
+    "deck_value": 1,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 4
+  },
+  {
+    "image": "4-wyrmspeaker.png",
+    "name": "Wyrmspeaker",
+    "type": "Ambition",
+    "cost": 3,
+    "race": "Dwarf",
+    "effect": [
+      "+1 influence",
+      "At end of turn, promote another card played this turn."
+    ],
+    "flavour": "Fanatics gifted with the ability to convince dragons to join their cause.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "5-black-wyrmling.png",
+    "name": "Black Wyrmling",
+    "type": "Conquest",
+    "cost": 3,
+    "race": "Dragon",
+    "effect": [
+      "+1 influence",
+      "Assassinate a white troop."
+    ],
+    "flavour": "So many tasty snacks, so little time.",
+    "deck_value": 1,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "6-cult-fanatic.png",
+    "name": "Cult Fanatic",
+    "type": "Ambition",
+    "cost": 3,
+    "race": "Half-Dragon",
+    "effect": [
+      "+2 influence",
+      "You may devour a card in the market."
+    ],
+    "flavour": "“To feel the blood of dragons in your veins is to feel invincible!”",
+    "deck_value": 1,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "7-enchanter-of-thay.png",
+    "name": "Enchanter of Thay",
+    "type": "Guile",
+    "cost": 4,
+    "race": "Human",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ +4 power"
+    ],
+    "flavour": "“Willing or unwilling, it matters not; your services are required.”",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "8-green-wyrmling.png",
+    "name": "Green Wyrmling",
+    "type": "Guile",
+    "cost": 4,
+    "race": "Dragon",
+    "effect": [
+      "Place a spy. If another player's troop is at that site, gain 2 influence."
+    ],
+    "flavour": "Fresh out of the egg, a wyrmling's poison can dissolve bone and eat through steel.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "9-cleric-of-laogzed.png",
+    "name": "Cleric of Laogzed",
+    "type": "Ambition",
+    "cost": 4,
+    "race": "Troglodyte",
+    "effect": [
+      "Move an enemy troop.",
+      "At end of turn, promote another card played this turn."
+    ],
+    "flavour": "Its stench is exceeded only by its hunger for fresh meat.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "10-dragonclaw.png",
+    "name": "Dragonclaw",
+    "type": "Malice",
+    "cost": 4,
+    "race": "Human",
+    "effect": [
+      "Assassinate a troop. Then, if you have 5 or more player troops in your trophy hall, gain 2 power."
+    ],
+    "flavour": "The colors of their tattoos are based on the dragons they revere.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "11-blue-wyrmling.png",
+    "name": "Blue Wyrmling",
+    "type": "Ambition",
+    "cost": 5,
+    "race": "Dragon",
+    "effect": [
+      "+3 influence",
+      "Return another player's troop or spy."
+    ],
+    "flavour": "Even a blue wyrmling will not tolerate insubordination to its kind.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "12-red-wyrmling.png",
+    "name": "Red Wyrmling",
+    "type": "Malice",
+    "cost": 5,
+    "race": "Dragon",
+    "effect": [
+      "+2 power, +2 influence"
+    ],
+    "flavour": "The first thing a red wyrmling develops is its profound sense of arrogance.",
+    "deck_value": 3,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "13-rath-modar.png",
+    "name": "Rath Modar",
+    "type": "Guile",
+    "cost": 6,
+    "race": "Human",
+    "effect": [
+      "Draw 2 cards.",
+      "Place a spy."
+    ],
+    "flavour": "“Dragons are tools, and with them I shall build empires.”",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "14-white-dragon.png",
+    "name": "White Dragon",
+    "type": "Conquest",
+    "cost": 6,
+    "race": "Dragon",
+    "effect": [
+      "Deploy 3 troops.",
+      "Gain 1 VP for every 2 sites you control."
+    ],
+    "flavour": "“They're dumb all right, but if they smell your blood, they'll hunt you till doomsday.” —Caldourn Truespear, dragonhunter",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "15-green-dragon.png",
+    "name": "Green Dragon",
+    "type": "Guile",
+    "cost": 7,
+    "race": "Dragon",
+    "effect": [
+      "Choose one:",
+      "• Place a spy, then supplant a troop at that spy's site.",
+      "• Return one of your spies ▶ Supplant a troop at that spy's site, then gain 1 VP for each site control marker you have."
+    ],
+    "flavour": "Green dragons measure plans in centuries.",
+    "deck_value": 3,
+    "inner_circle_value": 7,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "16-severin-silrajin.png",
+    "name": "Severin Silrajin",
+    "type": "Malice",
+    "cost": 7,
+    "race": "Human",
+    "effect": [
+      "+5 power"
+    ],
+    "flavour": "“I have been given insight into a destiny far greater than I could have imagined.”",
+    "deck_value": 4,
+    "inner_circle_value": 8,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "17-black-dragon.png",
+    "name": "Black Dragon",
+    "type": "Conquest",
+    "cost": 7,
+    "race": "Dragon",
+    "effect": [
+      "Supplant a white troop anywhere on the board.",
+      "Gain 1 VP for every 3 white troops in your trophy hall."
+    ],
+    "flavour": "Those who witness its dark majesty fall to their knees in worship.",
+    "deck_value": 3,
+    "inner_circle_value": 7,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "18-red-dragon.png",
+    "name": "Red Dragon",
+    "type": "Malice",
+    "cost": 8,
+    "race": "Dragon",
+    "effect": [
+      "Supplant a troop.",
+      "Return an enemy spy.",
+      "Gain 1 VP for each site under your total control."
+    ],
+    "flavour": "“If you ever see one of these, run.” —Blacksoot, the Charred",
+    "deck_value": 4,
+    "inner_circle_value": 8,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "19-blue-dragon.png",
+    "name": "Blue Dragon",
+    "type": "Ambition",
+    "cost": 8,
+    "race": "Dragon",
+    "effect": [
+      "At end of turn, promote up to 2 other cards played this turn, then gain 1 VP for every 3 cards in your inner circle."
+    ],
+    "flavour": "“Above, below, it matters not. Dragonkind will rule all.”",
+    "deck_value": 4,
+    "inner_circle_value": 8,
+    "quantity_in_deck": 1
+  }
+]

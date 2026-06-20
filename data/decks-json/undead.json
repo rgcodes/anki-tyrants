@@ -1,0 +1,306 @@
+[
+  {
+    "image": "0-wraith.png",
+    "name": "Wraith",
+    "type": "Guile",
+    "cost": 2,
+    "race": "Undead",
+    "effect": [
+      "Place a spy.",
+      "Devour this card ▶ Assassinate a troop at that spy's site."
+    ],
+    "flavour": "Only their hatred still binds them to this plane. Pray they never direct it upon you.",
+    "deck_value": 0,
+    "inner_circle_value": 1,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "1-skeletal-horde.png",
+    "name": "Skeletal Horde",
+    "type": "Conquest",
+    "cost": 2,
+    "race": "Undead",
+    "effect": [
+      "Deploy 2 troops.",
+      "Devour this card ▶ Deploy 3 troops"
+    ],
+    "flavour": "They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss",
+    "deck_value": 1,
+    "inner_circle_value": 2,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "2-carrion-crawler.png",
+    "name": "Carrion Crawler",
+    "type": "Malice",
+    "cost": 2,
+    "race": "Monstrosity",
+    "effect": [
+      "+3 influence",
+      "Devour a card in the market. Instead of replacing it with the top card from the market deck, replace it with this card."
+    ],
+    "flavour": "“I love the big grubbers: they eat the dead and they're easy to outrun!” – Lippo, derro sage",
+    "deck_value": 0,
+    "inner_circle_value": 2,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "3-vampire-spawn.png",
+    "name": "Vampire Spawn",
+    "type": "Ambition",
+    "cost": 2,
+    "race": "Undead",
+    "effect": [
+      "+1 influence",
+      "Return another player's troop or spy."
+    ],
+    "flavour": "Known for their ravenous hunger for blood, no creature would willingly share the dark with a vampire's spawn.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "4-cultist-of-myrkul.png",
+    "name": "Cultist of Myrkul",
+    "type": "Ambition",
+    "cost": 2,
+    "race": "Human",
+    "effect": [
+      "Choose one:",
+      "• +2 influence",
+      "• Devour this card ▶ at end of turn, promote up to 2 other cards played this turn."
+    ],
+    "flavour": "In life or death, we will all serve him.",
+    "deck_value": 1,
+    "inner_circle_value": 2,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "5-flesh-golem.png",
+    "name": "Flesh Golem",
+    "type": "Malice",
+    "cost": 3,
+    "race": "Construct",
+    "effect": [
+      "+2 power",
+      "Devour this card ▶ + Assassinate a troop."
+    ],
+    "flavour": "An earth spirit bound by frail flesh and bone; no wonder its existence is fury.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "6-ghost.png",
+    "name": "Ghost",
+    "type": "Guile",
+    "cost": 3,
+    "race": "Undead",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ For the rest of your turn treat the top card of the devoured deck as if it was in the market."
+    ],
+    "flavour": "Sometimes, killing your enemies isn't as final as it seems.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "7-wight.png",
+    "name": "Wight",
+    "type": "Malice",
+    "cost": 3,
+    "race": "Undead",
+    "effect": [
+      "Choose one:",
+      "• +2 power",
+      "• Devour a card in your hand ▶ Supplant a troop."
+    ],
+    "flavour": "In return for waging eternal war upon the living, these mortals are granted undeath.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 4
+  },
+  {
+    "image": "8-ravenous-zombies.png",
+    "name": "Ravenous Zombies",
+    "type": "Conquest",
+    "cost": 3,
+    "race": "Undead",
+    "effect": [
+      "+1 power",
+      "Assassinate a white troop."
+    ],
+    "flavour": "Their will has been torn away and all that remains is their insatiable hunger.",
+    "deck_value": 1,
+    "inner_circle_value": 2,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "9-minotaur-skeleton.png",
+    "name": "Minotaur Skeleton",
+    "type": "Conquest",
+    "cost": 3,
+    "race": "Undead",
+    "effect": [
+      "Choose one:",
+      "• Deploy three troops.",
+      "• Devour this card ▶ Assassinate up to three white troops at a single site."
+    ],
+    "flavour": "“Any bones will do. The bigger the better.” – Hommet Shaw",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "10-ogre-zombie.png",
+    "name": "Ogre Zombie",
+    "type": "Conquest",
+    "cost": 4,
+    "race": "Undead",
+    "effect": [
+      "Supplant a white troop anywhere on the board."
+    ],
+    "flavour": "“The enemy may be strong, but soon that strength will be ours to command.” – Valindra Shadowmantle",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "11-revenant.png",
+    "name": "Revenant",
+    "type": "Malice",
+    "cost": 4,
+    "race": "Undead",
+    "effect": [
+      "Assassinate two troops. Then, if you have 8 or more troops in your trophy hall, promote this card."
+    ],
+    "flavour": "They have one year to either taste sweet vengeance or crumble to dust.",
+    "deck_value": 1,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "12-banshee.png",
+    "name": "Banshee",
+    "type": "Guile",
+    "cost": 4,
+    "race": "Undead",
+    "effect": [
+      "Place a spy. If another player's spy is at that site, gain 3 power."
+    ],
+    "flavour": "Where a banshee makes her home, no mortal soul is welcome.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "13-conjurer.png",
+    "name": "Conjurer",
+    "type": "Guile",
+    "cost": 5,
+    "race": "Human",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ Recruit up to 2 cards that each costs 3 or less without paying its cost."
+    ],
+    "flavour": "Plenty more where that came from.",
+    "deck_value": 2,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "14-necromancer.png",
+    "name": "Necromancer",
+    "type": "Ambition",
+    "cost": 5,
+    "race": "Human",
+    "effect": [
+      "Choose one:",
+      "• +3 influence",
+      "• Promote this card, or a card from your hand or discard pile."
+    ],
+    "flavour": "“You fools think I fear death? I am its master!”",
+    "deck_value": 1,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "15-mummy-lord.png",
+    "name": "Mummy Lord",
+    "type": "Conquest",
+    "cost": 6,
+    "race": "Undead",
+    "effect": [
+      "Choose 2 times:",
+      "• Assassinate a white troop.",
+      "• Take a white troop from any trophy hall and deploy it anywhere on the board."
+    ],
+    "flavour": "His empire will rise again.",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "16-high-priest-of-myrkul.png",
+    "name": "High Priest of Myrkul",
+    "type": "Ambition",
+    "cost": 6,
+    "race": "Human",
+    "effect": [
+      "Return another player's troop or spy.",
+      "At end of turn, you may promote any number of Undead cards played this turn."
+    ],
+    "flavour": "“Death is only the beginning.”",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "17-death-knight.png",
+    "name": "Death Knight",
+    "type": "Malice",
+    "cost": 6,
+    "race": "Undead",
+    "effect": [
+      "Supplant a troop.",
+      "Gain 1 VP for every 5 player troops in your trophy hall."
+    ],
+    "flavour": "Either flee now, or join him. To choose to fight, is to choose to die.",
+    "deck_value": 3,
+    "inner_circle_value": 7,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "18-lich.png",
+    "name": "Lich",
+    "type": "Guile",
+    "cost": 7,
+    "race": "Undead",
+    "effect": [
+      "Place a spy. If another player's troop is at that site, take up to 2 troops from their trophy hall and deploy them."
+    ],
+    "flavour": "Every graveyard is his barracks, and every defeat a temporary setback.",
+    "deck_value": 4,
+    "inner_circle_value": 7,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "19-vampire.png",
+    "name": "Vampire",
+    "type": "Ambition",
+    "cost": 7,
+    "race": "Undead",
+    "effect": [
+      "Choose one:",
+      "• Supplant a troop.",
+      "• Promote a card from your discard pile, then gain 1 VP for every 3 cards in your inner circle."
+    ],
+    "flavour": "“Give in to me, my dear, and you shall live forever by my side.”",
+    "deck_value": 4,
+    "inner_circle_value": 7,
+    "quantity_in_deck": 1
+  }
+]

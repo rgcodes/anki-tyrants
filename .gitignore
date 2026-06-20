@@ -1,0 +1,19 @@
+# Python
+extract/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Affinity files & locks
+*.af
+*~lock~
+
+# Card images — regeneratable from PDFs, large binaries (~5 MB each, ~600 MB across all 6 half-decks)
+data/images/
+
+# Node (for the future generator)
+node_modules/
+output/

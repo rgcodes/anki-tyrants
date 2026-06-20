@@ -1,0 +1,301 @@
+[
+  {
+    "image": "drow-0-advocate.png",
+    "name": "Advocate",
+    "type": "Ambition",
+    "cost": 2,
+    "race": "Drow",
+    "effect": [
+      "Choose one:",
+      "• +2 influence",
+      "• At end of turn, promote another card played this turn."
+    ],
+    "flavour": "Greed, avarice, and power: three languages I understand well.",
+    "deck_value": 1,
+    "inner_circle_value": 2,
+    "quantity_in_deck": 4
+  },
+  {
+    "image": "drow-1-spy-master.png",
+    "name": "Spy Master",
+    "type": "Guile",
+    "cost": 2,
+    "race": "Drow",
+    "effect": [
+      "Place a spy."
+    ],
+    "flavour": "I can get you past the gates and the guards. What you do after that is up to you.",
+    "deck_value": 1,
+    "inner_circle_value": 2,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "drow-2-infiltrator.png",
+    "name": "Infiltrator",
+    "type": "Guile",
+    "cost": 3,
+    "race": "Drow",
+    "effect": [
+      "Place a spy. If another player's troop is at that site, gain 1 power."
+    ],
+    "flavour": "Perfection can only be achieved when the price of failure is death.",
+    "deck_value": 1,
+    "inner_circle_value": 2,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "drow-3-advance-scout.png",
+    "name": "Advance Scout",
+    "type": "Conquest",
+    "cost": 3,
+    "race": "Drow",
+    "effect": [
+      "Supplant a white troop."
+    ],
+    "flavour": "They infiltrate the web of drow society without disturbing a single strand.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "drow-4-spellspinner.png",
+    "name": "Spellspinner",
+    "type": "Guile",
+    "cost": 3,
+    "race": "Drow",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ Supplant a troop at that spy's site."
+    ],
+    "flavour": "You'll never know your mind is not your own.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 3
+  },
+  {
+    "image": "drow-5-blackguard.png",
+    "name": "Blackguard",
+    "type": "Malice",
+    "cost": 3,
+    "race": "Drow",
+    "effect": [
+      "Choose one:",
+      "• +2 power",
+      "• Assassinate a troop."
+    ],
+    "flavour": "They patrol the Underdark, culling the lost, the unaware, and the foolhardy.",
+    "deck_value": 1,
+    "inner_circle_value": 3,
+    "quantity_in_deck": 4
+  },
+  {
+    "image": "drow-6-inquisitor.png",
+    "name": "Inquisitor",
+    "type": "Malice",
+    "cost": 3,
+    "race": "Drow",
+    "effect": [
+      "Choose one:",
+      "• +2 influence",
+      "• Assassinate a troop."
+    ],
+    "flavour": "If by my service I can please the Goddess and bring honor to my house, I am content.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "drow-7-drow-negotiator.png",
+    "name": "Drow Negotiator",
+    "type": "Ambition",
+    "cost": 3,
+    "race": "Drow",
+    "effect": [
+      "If there are 4 or more cards in your inner circle, gain 3 influence.",
+      "At end of turn, promote another card played this turn."
+    ],
+    "flavour": "I can open doors that are locked to all but the Matron Mothers.",
+    "deck_value": 1,
+    "inner_circle_value": 2,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "drow-8-mercenary-squad.png",
+    "name": "Mercenary Squad",
+    "type": "Conquest",
+    "cost": 3,
+    "race": "Drow",
+    "effect": [
+      "Deploy 3 troops."
+    ],
+    "flavour": "The only other option for those without a house is exile.",
+    "deck_value": 1,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "drow-9-underdark-ranger.png",
+    "name": "Underdark Ranger",
+    "type": "Conquest",
+    "cost": 4,
+    "race": "Drow",
+    "effect": [
+      "Assassinate 2 white troops."
+    ],
+    "flavour": "Their knowledge of the Underdark is unparalleled; no place is beyond the reach of their swords.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "drow-10-bounty-hunter.png",
+    "name": "Bounty Hunter",
+    "type": "Malice",
+    "cost": 4,
+    "race": "Drow",
+    "effect": [
+      "+3 power"
+    ],
+    "flavour": "Every life has a price.",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "drow-11-chosen-of-lolth.png",
+    "name": "Chosen of Lolth",
+    "type": "Ambition",
+    "cost": 4,
+    "race": "Drow",
+    "effect": [
+      "Return another player's troop or spy.",
+      "At end of turn, promote another card played this turn."
+    ],
+    "flavour": "Do not think to disobey. The Spider Queen wills it!",
+    "deck_value": 2,
+    "inner_circle_value": 4,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "drow-12-doppelganger.png",
+    "name": "Doppelganger",
+    "type": "Malice",
+    "cost": 5,
+    "race": "Doppelganger",
+    "effect": [
+      "Supplant a troop."
+    ],
+    "flavour": "Nice life. I think I'll take it.",
+    "deck_value": 3,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "drow-13-master-of-melee-magthere.png",
+    "name": "Master of Melee-Magthere",
+    "type": "Conquest",
+    "cost": 5,
+    "race": "Drow",
+    "effect": [
+      "Choose one:",
+      "• Deploy 4 troops.",
+      "• Supplant a white troop anywhere on the board."
+    ],
+    "flavour": "The instructors at Melee-Magthere are among the greatest warriors in Menzoberranzan.",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "drow-14-information-broker.png",
+    "name": "Information Broker",
+    "type": "Guile",
+    "cost": 5,
+    "race": "Drow",
+    "effect": [
+      "Choose one:",
+      "• Place a spy.",
+      "• Return one of your spies ▶ Draw 3 cards."
+    ],
+    "flavour": "Why waste spells and steel when mere words can bring down a house?",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 2
+  },
+  {
+    "image": "drow-15-masters-of-sorcere.png",
+    "name": "Masters of Sorcere",
+    "type": "Guile",
+    "cost": 5,
+    "race": "Drow",
+    "effect": [
+      "Choose one:",
+      "• Place 2 spies.",
+      "• Return one of your spies ▶ +4 power"
+    ],
+    "flavour": "The Masters of Sorcere serve two purposes: to teach the students and to ensure loyalty to Lolth.",
+    "deck_value": 2,
+    "inner_circle_value": 5,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "drow-16-weaponmaster.png",
+    "name": "Weaponmaster",
+    "type": "Conquest",
+    "cost": 6,
+    "race": "Drow",
+    "effect": [
+      "Choose three times:",
+      "• Deploy a troop.",
+      "• Assassinate a white troop."
+    ],
+    "flavour": "You will be found worthy or you will die. The outcome is up to you. —Shoor Vandree",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "drow-17-deathblade.png",
+    "name": "Deathblade",
+    "type": "Malice",
+    "cost": 6,
+    "race": "Drow",
+    "effect": [
+      "Assassinate 2 troops."
+    ],
+    "flavour": "May the mark of the Deathblades be upon you. —Drow curse",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "drow-18-council-member.png",
+    "name": "Council Member",
+    "type": "Ambition",
+    "cost": 6,
+    "race": "Drow",
+    "effect": [
+      "Move up to 2 enemy troops.",
+      "At end of turn, promote another card played this turn."
+    ],
+    "flavour": "In the drow council chambers, scheming is an art form.",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  },
+  {
+    "image": "drow-19-matron-mother.png",
+    "name": "Matron Mother",
+    "type": "Ambition",
+    "cost": 6,
+    "race": "Drow",
+    "effect": [
+      "Put your deck into your discard pile. Then promote a card from your discard pile."
+    ],
+    "flavour": "The will of the Matron Mother is absolute.",
+    "deck_value": 3,
+    "inner_circle_value": 6,
+    "quantity_in_deck": 1
+  }
+]
