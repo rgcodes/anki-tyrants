@@ -1,6 +1,6 @@
 [
   {
-    "image": "tyrants-dragons-0-kobold.png",
+    "image": "tyrants-dragons-0-kobold-hint.png",
     "name": "Kobold",
     "type": "Conquest",
     "cost": 1,
@@ -16,7 +16,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-dragons-1-white-wyrmling.png",
+    "image": "tyrants-dragons-1-white-wyrmling-hint.png",
     "name": "White Wyrmling",
     "type": "Conquest",
     "cost": 2,
@@ -31,7 +31,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-dragons-2-watcher-of-thay.png",
+    "image": "tyrants-dragons-2-watcher-of-thay-hint.png",
     "name": "Watcher of Thay",
     "type": "Guile",
     "cost": 3,
@@ -47,7 +47,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-dragons-3-dragon-cultist.png",
+    "image": "tyrants-dragons-3-dragon-cultist-hint.png",
     "name": "Dragon Cultist",
     "type": "Malice",
     "cost": 3,
@@ -63,7 +63,7 @@
     "quantity_in_deck": 4
   },
   {
-    "image": "tyrants-dragons-4-wyrmspeaker.png",
+    "image": "tyrants-dragons-4-wyrmspeaker-hint.png",
     "name": "Wyrmspeaker",
     "type": "Ambition",
     "cost": 3,
@@ -78,7 +78,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-dragons-5-black-wyrmling.png",
+    "image": "tyrants-dragons-5-black-wyrmling-hint.png",
     "name": "Black Wyrmling",
     "type": "Conquest",
     "cost": 3,
@@ -93,7 +93,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-dragons-6-cult-fanatic.png",
+    "image": "tyrants-dragons-6-cult-fanatic-hint.png",
     "name": "Cult Fanatic",
     "type": "Ambition",
     "cost": 3,
@@ -108,7 +108,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-dragons-7-enchanter-of-thay.png",
+    "image": "tyrants-dragons-7-enchanter-of-thay-hint.png",
     "name": "Enchanter of Thay",
     "type": "Guile",
     "cost": 4,
@@ -124,7 +124,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-dragons-8-green-wyrmling.png",
+    "image": "tyrants-dragons-8-green-wyrmling-hint.png",
     "name": "Green Wyrmling",
     "type": "Guile",
     "cost": 4,
@@ -138,7 +138,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-dragons-9-cleric-of-laogzed.png",
+    "image": "tyrants-dragons-9-cleric-of-laogzed-hint.png",
     "name": "Cleric of Laogzed",
     "type": "Ambition",
     "cost": 4,
@@ -153,7 +153,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-dragons-10-dragonclaw.png",
+    "image": "tyrants-dragons-10-dragonclaw-hint.png",
     "name": "Dragonclaw",
     "type": "Malice",
     "cost": 4,
@@ -167,7 +167,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-dragons-11-blue-wyrmling.png",
+    "image": "tyrants-dragons-11-blue-wyrmling-hint.png",
     "name": "Blue Wyrmling",
     "type": "Ambition",
     "cost": 5,
@@ -182,7 +182,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-dragons-12-red-wyrmling.png",
+    "image": "tyrants-dragons-12-red-wyrmling-hint.png",
     "name": "Red Wyrmling",
     "type": "Malice",
     "cost": 5,
@@ -196,7 +196,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-dragons-13-rath-modar.png",
+    "image": "tyrants-dragons-13-rath-modar-hint.png",
     "name": "Rath Modar",
     "type": "Guile",
     "cost": 6,
@@ -211,7 +211,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-dragons-14-white-dragon.png",
+    "image": "tyrants-dragons-14-white-dragon-hint.png",
     "name": "White Dragon",
     "type": "Conquest",
     "cost": 6,
@@ -226,7 +226,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-dragons-15-green-dragon.png",
+    "image": "tyrants-dragons-15-green-dragon-hint.png",
     "name": "Green Dragon",
     "type": "Guile",
     "cost": 7,
@@ -242,7 +242,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-dragons-16-severin-silrajin.png",
+    "image": "tyrants-dragons-16-severin-silrajin-hint.png",
     "name": "Severin Silrajin",
     "type": "Malice",
     "cost": 7,
@@ -256,7 +256,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-dragons-17-black-dragon.png",
+    "image": "tyrants-dragons-17-black-dragon-hint.png",
     "name": "Black Dragon",
     "type": "Conquest",
     "cost": 7,
@@ -271,7 +271,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-dragons-18-red-dragon.png",
+    "image": "tyrants-dragons-18-red-dragon-hint.png",
     "name": "Red Dragon",
     "type": "Malice",
     "cost": 8,
@@ -287,7 +287,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-dragons-19-blue-dragon.png",
+    "image": "tyrants-dragons-19-blue-dragon-hint.png",
     "name": "Blue Dragon",
     "type": "Ambition",
     "cost": 8,

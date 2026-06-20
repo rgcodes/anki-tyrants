@@ -1,6 +1,6 @@
 [
   {
-    "image": "tyrants-demons-0-gibbering-mouther.png",
+    "image": "tyrants-demons-0-gibbering-mouther-hint.png",
     "name": "Gibbering Mouther",
     "type": "Conquest",
     "cost": 2,
@@ -14,7 +14,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-demons-1-night-hag.png",
+    "image": "tyrants-demons-1-night-hag-hint.png",
     "name": "Night Hag",
     "type": "Guile",
     "cost": 3,
@@ -30,7 +30,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-demons-2-mind-flayer.png",
+    "image": "tyrants-demons-2-mind-flayer-hint.png",
     "name": "Mind Flayer",
     "type": "Malice",
     "cost": 3,
@@ -46,7 +46,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-demons-3-myconid-adult.png",
+    "image": "tyrants-demons-3-myconid-adult-hint.png",
     "name": "Myconid Adult",
     "type": "Ambition",
     "cost": 3,
@@ -61,7 +61,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-demons-4-hezrou.png",
+    "image": "tyrants-demons-4-hezrou-hint.png",
     "name": "Hezrou",
     "type": "Ambition",
     "cost": 3,
@@ -76,7 +76,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-demons-5-derro.png",
+    "image": "tyrants-demons-5-derro-hint.png",
     "name": "Derro",
     "type": "Conquest",
     "cost": 3,
@@ -90,7 +90,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-demons-6-myconid-sovereign.png",
+    "image": "tyrants-demons-6-myconid-sovereign-hint.png",
     "name": "Myconid Sovereign",
     "type": "Ambition",
     "cost": 4,
@@ -105,7 +105,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-demons-7-ghoul.png",
+    "image": "tyrants-demons-7-ghoul-hint.png",
     "name": "Ghoul",
     "type": "Malice",
     "cost": 4,
@@ -120,7 +120,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-demons-8-ettin.png",
+    "image": "tyrants-demons-8-ettin-hint.png",
     "name": "Ettin",
     "type": "Conquest",
     "cost": 4,
@@ -136,7 +136,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-demons-9-jackalwere.png",
+    "image": "tyrants-demons-9-jackalwere-hint.png",
     "name": "Jackalwere",
     "type": "Guile",
     "cost": 4,
@@ -152,7 +152,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-demons-10-glabrezu.png",
+    "image": "tyrants-demons-10-glabrezu-hint.png",
     "name": "Glabrezu",
     "type": "Malice",
     "cost": 5,
@@ -166,7 +166,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-demons-11-succubus.png",
+    "image": "tyrants-demons-11-succubus-hint.png",
     "name": "Succubus",
     "type": "Guile",
     "cost": 5,
@@ -180,7 +180,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-demons-12-nalfeshnee.png",
+    "image": "tyrants-demons-12-nalfeshnee-hint.png",
     "name": "Nalfeshnee",
     "type": "Ambition",
     "cost": 5,
@@ -195,7 +195,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-demons-13-vrock.png",
+    "image": "tyrants-demons-13-vrock-hint.png",
     "name": "Vrock",
     "type": "Guile",
     "cost": 5,
@@ -211,7 +211,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-demons-14-grazzt.png",
+    "image": "tyrants-demons-14-grazzt-hint.png",
     "name": "Graz'zt",
     "type": "Guile",
     "cost": 6,
@@ -227,7 +227,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-demons-15-zuggtmoy.png",
+    "image": "tyrants-demons-15-zuggtmoy-hint.png",
     "name": "Zuggtmoy",
     "type": "Ambition",
     "cost": 6,
@@ -241,7 +241,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-demons-16-balor.png",
+    "image": "tyrants-demons-16-balor-hint.png",
     "name": "Balor",
     "type": "Conquest",
     "cost": 6,
@@ -255,7 +255,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-demons-17-marilith.png",
+    "image": "tyrants-demons-17-marilith-hint.png",
     "name": "Marilith",
     "type": "Malice",
     "cost": 6,
@@ -269,7 +269,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-demons-18-demogorgon.png",
+    "image": "tyrants-demons-18-demogorgon-hint.png",
     "name": "Demogorgon",
     "type": "Conquest",
     "cost": 8,
@@ -283,7 +283,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-demons-19-orcus.png",
+    "image": "tyrants-demons-19-orcus-hint.png",
     "name": "Orcus",
     "type": "Malice",
     "cost": 8,

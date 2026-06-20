@@ -7,7 +7,7 @@ const OUTPUT_DIR = join(__dirname, '../../output');
 
 export function writeCards(filename, deck, cards) {
   mkdirSync(OUTPUT_DIR, { recursive: true });
-  const header = `#deck:${deck}\n#tags column:3\n`;
+  const header = `#notetype:Basic\n#deck:${deck}\n#tags column:3\n`;
   const lines = cards.map(c => `${c.front}\t${c.back}\t${c.tags}`);
   const filepath = join(OUTPUT_DIR, `${filename}.txt`);
   writeFileSync(filepath, header + lines.join('\n') + '\n');

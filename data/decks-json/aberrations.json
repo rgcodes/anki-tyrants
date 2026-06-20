@@ -1,6 +1,6 @@
 [
   {
-    "image": "tyrants-aberrations-0-grimlock.png",
+    "image": "tyrants-aberrations-0-grimlock-hint.png",
     "name": "Grimlock",
     "type": "Conquest",
     "cost": 1,
@@ -15,7 +15,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-aberrations-1-cloaker.png",
+    "image": "tyrants-aberrations-1-cloaker-hint.png",
     "name": "Cloaker",
     "type": "Guile",
     "cost": 2,
@@ -31,7 +31,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-aberrations-2-cranium-rats.png",
+    "image": "tyrants-aberrations-2-cranium-rats-hint.png",
     "name": "Cranium Rats",
     "type": "Conquest",
     "cost": 2,
@@ -46,7 +46,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-aberrations-3-chuul.png",
+    "image": "tyrants-aberrations-3-chuul-hint.png",
     "name": "Chuul",
     "type": "Guile",
     "cost": 3,
@@ -60,7 +60,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-aberrations-4-mindwitness.png",
+    "image": "tyrants-aberrations-4-mindwitness-hint.png",
     "name": "Mindwitness",
     "type": "Malice",
     "cost": 3,
@@ -74,7 +74,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-aberrations-5-ambassador.png",
+    "image": "tyrants-aberrations-5-ambassador-hint.png",
     "name": "Ambassador",
     "type": "Ambition",
     "cost": 3,
@@ -89,7 +89,7 @@
     "quantity_in_deck": 4
   },
   {
-    "image": "tyrants-aberrations-6-nothic.png",
+    "image": "tyrants-aberrations-6-nothic-hint.png",
     "name": "Nothic",
     "type": "Guile",
     "cost": 3,
@@ -105,7 +105,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-aberrations-7-gauth.png",
+    "image": "tyrants-aberrations-7-gauth-hint.png",
     "name": "Gauth",
     "type": "Malice",
     "cost": 3,
@@ -121,7 +121,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-aberrations-8-spectator.png",
+    "image": "tyrants-aberrations-8-spectator-hint.png",
     "name": "Spectator",
     "type": "Malice",
     "cost": 4,
@@ -135,7 +135,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-aberrations-9-brainwashed-slave.png",
+    "image": "tyrants-aberrations-9-brainwashed-slave-hint.png",
     "name": "Brainwashed Slave",
     "type": "Guile",
     "cost": 4,
@@ -151,7 +151,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-aberrations-10-umber-hulk.png",
+    "image": "tyrants-aberrations-10-umber-hulk-hint.png",
     "name": "Umber Hulk",
     "type": "Conquest",
     "cost": 4,
@@ -166,7 +166,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-aberrations-11-intellect-devourer.png",
+    "image": "tyrants-aberrations-11-intellect-devourer-hint.png",
     "name": "Intellect Devourer",
     "type": "Ambition",
     "cost": 4,
@@ -182,7 +182,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-aberrations-12-quaggoth.png",
+    "image": "tyrants-aberrations-12-quaggoth-hint.png",
     "name": "Quaggoth",
     "type": "Conquest",
     "cost": 5,
@@ -196,7 +196,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-aberrations-13-puppeteer.png",
+    "image": "tyrants-aberrations-13-puppeteer-hint.png",
     "name": "Puppeteer",
     "type": "Ambition",
     "cost": 5,
@@ -211,7 +211,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-aberrations-14-beholder.png",
+    "image": "tyrants-aberrations-14-beholder-hint.png",
     "name": "Beholder",
     "type": "Malice",
     "cost": 5,
@@ -226,7 +226,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-aberrations-15-ulitharid.png",
+    "image": "tyrants-aberrations-15-ulitharid-hint.png",
     "name": "Ulitharid",
     "type": "Ambition",
     "cost": 6,
@@ -240,7 +240,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-aberrations-16-elder-brain.png",
+    "image": "tyrants-aberrations-16-elder-brain-hint.png",
     "name": "Elder Brain",
     "type": "Ambition",
     "cost": 7,
@@ -255,7 +255,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-aberrations-17-neogi.png",
+    "image": "tyrants-aberrations-17-neogi-hint.png",
     "name": "Neogi",
     "type": "Conquest",
     "cost": 7,
@@ -270,7 +270,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-aberrations-18-aboleth.png",
+    "image": "tyrants-aberrations-18-aboleth-hint.png",
     "name": "Aboleth",
     "type": "Guile",
     "cost": 7,
@@ -286,7 +286,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-aberrations-19-death-tyrant.png",
+    "image": "tyrants-aberrations-19-death-tyrant-hint.png",
     "name": "Death Tyrant",
     "type": "Malice",
     "cost": 7,

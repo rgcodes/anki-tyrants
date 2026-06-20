@@ -1,6 +1,6 @@
 [
   {
-    "image": "tyrants-undead-0-wraith.png",
+    "image": "tyrants-undead-0-wraith-hint.png",
     "name": "Wraith",
     "type": "Guile",
     "cost": 2,
@@ -15,7 +15,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-undead-1-skeletal-horde.png",
+    "image": "tyrants-undead-1-skeletal-horde-hint.png",
     "name": "Skeletal Horde",
     "type": "Conquest",
     "cost": 2,
@@ -30,13 +30,13 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-undead-2-carrion-crawler.png",
+    "image": "tyrants-undead-2-carrion-crawler-hint.png",
     "name": "Carrion Crawler",
     "type": "Malice",
     "cost": 2,
     "race": "Monstrosity",
     "effect": [
-      "+3 influence",
+      "+3 power",
       "Devour a card in the market. Instead of replacing it with the top card from the market deck, replace it with this card."
     ],
     "flavour": "“I love the big grubbers: they eat the dead and they're easy to outrun!” – Lippo, derro sage",
@@ -45,7 +45,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-undead-3-vampire-spawn.png",
+    "image": "tyrants-undead-3-vampire-spawn-hint.png",
     "name": "Vampire Spawn",
     "type": "Ambition",
     "cost": 2,
@@ -60,7 +60,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-undead-4-cultist-of-myrkul.png",
+    "image": "tyrants-undead-4-cultist-of-myrkul-hint.png",
     "name": "Cultist of Myrkul",
     "type": "Ambition",
     "cost": 2,
@@ -76,7 +76,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-undead-5-flesh-golem.png",
+    "image": "tyrants-undead-5-flesh-golem-hint.png",
     "name": "Flesh Golem",
     "type": "Malice",
     "cost": 3,
@@ -91,7 +91,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-undead-6-ghost.png",
+    "image": "tyrants-undead-6-ghost-hint.png",
     "name": "Ghost",
     "type": "Guile",
     "cost": 3,
@@ -107,7 +107,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-undead-7-wight.png",
+    "image": "tyrants-undead-7-wight-hint.png",
     "name": "Wight",
     "type": "Malice",
     "cost": 3,
@@ -123,7 +123,7 @@
     "quantity_in_deck": 4
   },
   {
-    "image": "tyrants-undead-8-ravenous-zombies.png",
+    "image": "tyrants-undead-8-ravenous-zombies-hint.png",
     "name": "Ravenous Zombies",
     "type": "Conquest",
     "cost": 3,
@@ -138,7 +138,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-undead-9-minotaur-skeleton.png",
+    "image": "tyrants-undead-9-minotaur-skeleton-hint.png",
     "name": "Minotaur Skeleton",
     "type": "Conquest",
     "cost": 3,
@@ -154,7 +154,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-undead-10-ogre-zombie.png",
+    "image": "tyrants-undead-10-ogre-zombie-hint.png",
     "name": "Ogre Zombie",
     "type": "Conquest",
     "cost": 4,
@@ -168,7 +168,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-undead-11-revenant.png",
+    "image": "tyrants-undead-11-revenant-hint.png",
     "name": "Revenant",
     "type": "Malice",
     "cost": 4,
@@ -182,7 +182,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-undead-12-banshee.png",
+    "image": "tyrants-undead-12-banshee-hint.png",
     "name": "Banshee",
     "type": "Guile",
     "cost": 4,
@@ -196,7 +196,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-undead-13-conjurer.png",
+    "image": "tyrants-undead-13-conjurer-hint.png",
     "name": "Conjurer",
     "type": "Guile",
     "cost": 5,
@@ -212,7 +212,7 @@
     "quantity_in_deck": 3
   },
   {
-    "image": "tyrants-undead-14-necromancer.png",
+    "image": "tyrants-undead-14-necromancer-hint.png",
     "name": "Necromancer",
     "type": "Ambition",
     "cost": 5,
@@ -228,7 +228,7 @@
     "quantity_in_deck": 2
   },
   {
-    "image": "tyrants-undead-15-mummy-lord.png",
+    "image": "tyrants-undead-15-mummy-lord-hint.png",
     "name": "Mummy Lord",
     "type": "Conquest",
     "cost": 6,
@@ -244,7 +244,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-undead-16-high-priest-of-myrkul.png",
+    "image": "tyrants-undead-16-high-priest-of-myrkul-hint.png",
     "name": "High Priest of Myrkul",
     "type": "Ambition",
     "cost": 6,
@@ -259,7 +259,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-undead-17-death-knight.png",
+    "image": "tyrants-undead-17-death-knight-hint.png",
     "name": "Death Knight",
     "type": "Malice",
     "cost": 6,
@@ -274,7 +274,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-undead-18-lich.png",
+    "image": "tyrants-undead-18-lich-hint.png",
     "name": "Lich",
     "type": "Guile",
     "cost": 7,
@@ -288,7 +288,7 @@
     "quantity_in_deck": 1
   },
   {
-    "image": "tyrants-undead-19-vampire.png",
+    "image": "tyrants-undead-19-vampire-hint.png",
     "name": "Vampire",
     "type": "Ambition",
     "cost": 7,
