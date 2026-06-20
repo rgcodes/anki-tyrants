@@ -14,7 +14,7 @@ const DECK_LABELS = {
   dragons: 'Dragons',
   demons: 'Demons',
   undead: 'Undead',
-  elemental: 'Elemental Evil',
+  elemental: 'Elemental',
   aberrations: 'Aberrations',
 };
 
